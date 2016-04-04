@@ -2,8 +2,8 @@
 //  User.swift
 //  Autolayout
 //
-//  Created by CS193p Instructor.
-//  Copyright (c) 2015 Stanford University. All rights reserved.
+//  Created by 程庆春 on 15/11/8.
+//  Copyright © 2015年 Qiuncheng. All rights reserved.
 //
 
 import Foundation
